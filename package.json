@@ -1,0 +1,15 @@
+{
+  "name": "harmonyos-sans-sc-webfont-splitted",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "packageManager": "pnpm@10.9.0",
+  "dependencies": {
+    "cn-font-split": "^7.2.9"
+  }
+}
